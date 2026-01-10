@@ -1,4 +1,4 @@
 # demo
 first repository
 <br>
-author - ronit maurya
+author - ronit maury
